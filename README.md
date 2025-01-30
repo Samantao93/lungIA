@@ -1,5 +1,9 @@
 # lungIA
 
+## Installed versions
+- **Python:** 3.12.8
+- **Packages:** installed_versions.txt file
+
 ## Data
 Data download from The Cancer Genome Atlas Program (TCGA). Projects: LUAD and LUSC
 
