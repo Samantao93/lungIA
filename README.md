@@ -2,10 +2,13 @@
 
 ## Installed versions
 - **Python:** 3.12.8
-- **Packages:** installed_versions.txt file
-
+    - **Packages:** installed_versions.txt file
+- **R:** 4.4.2
+    -  **TCGAbiolinks:** 2.32.0
+    -  **SummarizedExperiment:** 1.34.0
+    -  **dplyr:** 1.1.4
 ## Data
-Data download from The Cancer Genome Atlas Program (TCGA). Projects: LUAD and LUSC
+Data download from The Cancer Genome Atlas Program (TCGA). Projects: LUAD and LUSC (tcga.R script)
 
 ## Steps
 - Create necessary directories and arrays
