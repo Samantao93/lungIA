@@ -8,9 +8,9 @@
     -  **SummarizedExperiment:** 1.34.0
     -  **dplyr:** 1.1.4
 ## Data
-Data download from The Cancer Genome Atlas Program (TCGA). Projects: LUAD and LUSC (tcga.R script)
+Data download from The Cancer Genome Atlas Program (TCGA). Projects: LUAD and LUSC (**tcga.R**)
 
-## Steps
+## Steps (Lung.ipynb)
 - Create necessary directories and arrays
 - Read .svs images
 - Convert to NumPy Arrays
